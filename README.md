@@ -1,8 +1,10 @@
 # LEGO Mindstorms Spike Hub and the Distance Sensor
 
-A Python snippet utilizing the LEGO Spike distance sensor, [MicroPython](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/), and the ```get_distance_cm()``` and ```light_up()()``` commands.
+A Python snippet utilizing the LEGO Spike distance sensor, [MicroPython](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/), and the `get_distance_cm()` and `light_up()()` commands.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [MicroPython for LEGO Robot Inventor](https://www.lego.com/en-ca/themes/mindstorms/downloads)
